@@ -3,10 +3,10 @@ Google-Web-Fonts
 
 My top favourite fonts from google API
 
-#Open Sans
-#Source Sans Pro
+- Open Sans
+- Source Sans Pro
 - Roboto
 - Montserrat
-* Oswald
-* Droid Serif
-Ubuntu
+- Oswald
+- Droid Serif
+- Ubuntu
